@@ -6,10 +6,6 @@ import org.apache.pdfbox.pdmodel.graphics.image.PDImageXObject;
 
 import java.io.File;
 
-
-/**
- * Created by ev16304 on 06/03/2018.
- */
 public class CreatingPDF {
 
     public static void PDF() {
