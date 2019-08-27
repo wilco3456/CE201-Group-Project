@@ -9,6 +9,7 @@ Other systems have not been tested, and it is advised to have caution with untes
 
 ## To Start:
 * Execute ce201-07.jar to begin the program. It will spend some time creating the GUI, before bringing up the Launcher Menu.
+
 **NOTE: To access from the command line, type: java -jar ce201-07.jar, which should run the program.**
 
 ## How to use the Program:
@@ -27,6 +28,7 @@ the "Load Data" button.
 * With your month size chosen, you should now press the "Load Data" button, causing the system to access the (csv) file you selected to convert it's data into a java list, then create two specialised lists to store the details to create Line and Pie charts.
 
 * If you didn't select a file, then pushing "Load Data" will bring up a message reminding you to select a file.
+
 **NOTE: If a csv file that contains a different format is used, the the program will malfunction and will need restarting to operate again.**
 
 * When you have finished, a pop-up will appear telling you that the loading of data has been completed.
@@ -46,8 +48,10 @@ appear displaying the size and the percentage that energy type takes up.
 
 * To create a PDF of one of the charts:
   * Press either the "Show Line Charts" or "Show Pie Charts" buttons.
+  
   **NOTE: close the chart if it impedes your view of the program.**
   * Press the "Export PDF" button. 
+  
   **NOTE: This will produce a message stating the requested PDF has been exported, and to please check your folder for the new PDF files.**
 
 * Pressing the button after you have exported a file will bring a reminder asking you to select a chart to make a PDF image of.
