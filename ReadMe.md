@@ -26,8 +26,7 @@ the "Load Data" button.
 
 * With your month size chosen, you should now press the "Load Data" button, causing the system to access the (csv) file you selected to convert it's data into a java list, then create two specialised lists to store the details to create Line and Pie charts.
 
-* If you didn't select a file, then pushing "Load Data" will bring up a message reminding you to select a file.
-
+* If you didn't select a file, then pushing "Load Data" will bring up a message reminding you to select a file.  
 **NOTE: If a *.csv* file is chosen, that contains a different format; the program will malfunction and require restarting to function.**
 
 * When you have finished, a pop-up will appear telling you that the loading of data has been completed.
@@ -43,7 +42,8 @@ appear displaying the size and the percentage that energy type takes up.
 
 * To close the chart, click on the X in the top right corner of the chart pop-up
 
-* To create a PDF image of any of the charts, you must first select one of the charts to display their contents. If you don't, the "Export PDF" button will be usable until you do. 
+* To create a PDF image of any of the charts, you must first select one of the charts to display their contents.  
+**NOTE: If you don't, the "Export PDF" button will be usable until you do.**
 
 * To create a PDF of one of the charts:
   * Press either the "Show Line Charts" or "Show Pie Charts" buttons.  
