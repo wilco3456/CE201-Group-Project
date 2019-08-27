@@ -12,7 +12,7 @@ Other systems have not been tested, and it is advised to have caution with untes
 ** NOTE: To access from the command line, type: java -jar ce201-07.jar, which should run the program. **
 
 ## How to use the Program:
-* To start of, you will need to download the CSV data from the U.K Grid Watch Website "https://www.gridwatch.templar.co.uk/download.php". 
+* To start of, you will need to download the CSV data from the U.K Grid Watch Website [Grid Watch] (https://www.gridwatch.templar.co.uk/download.php). 
 
 * Then click the "Browse" button, after which a window will pop-up. Browse it until you have found the file you just downloaded, then select that file. Afterwards, that file's classpath will appear inside the textbox left of the browse button.
 
