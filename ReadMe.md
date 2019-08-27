@@ -1,8 +1,7 @@
 # CE201 Group Seven Assignment ReadMe Guide
 
 ## Platform Recommendation:
-* This program has been run on Windows 10.0.15063 build 15063 and Mac OS X, developed using Java version 8, Intellij version 2016.2.2
-Other systems have not been tested, and it is advised to have caution with untested OS.
+* This program has been run on Windows 10.0.15063 build 15063 and Mac OS X, developed using Java version 12.0.2, Intellij version 2018.3.5 Other systems have not been tested, and it is advised to have caution with untested OS.
 
 ## Note:
 * This work was compiled in Intellij. To compile it for use on the same service, copy and paste all java files into an Intelij src folder, then add to the Java Library all .jar files except ce201-07.jar, that is the executable file.
