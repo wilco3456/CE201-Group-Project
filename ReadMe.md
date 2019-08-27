@@ -28,7 +28,7 @@ the "Load Data" button.
 
 * If you didn't select a file, then pushing "Load Data" will bring up a message reminding you to select a file.
 
-**NOTE: If a csv file that contains a different format is used, the the program will malfunction and will need restarting to operate again.**
+**NOTE: If a *.csv* file is chosen, that contains a different format; the program will malfunction and require restarting to function.**
 
 * When you have finished, a pop-up will appear telling you that the loading of data has been completed.
 
@@ -46,12 +46,11 @@ appear displaying the size and the percentage that energy type takes up.
 * To create a PDF image of any of the charts, you must first select one of the charts to display their contents. If you don't, the "Export PDF" button will be usable until you do. 
 
 * To create a PDF of one of the charts:
-  * Press either the "Show Line Charts" or "Show Pie Charts" buttons.
-  
+  * Press either the "Show Line Charts" or "Show Pie Charts" buttons.  
   **NOTE: close the chart if it impedes your view of the program.**
-  * Press the "Export PDF" button. 
   
-  **NOTE: This will produce a message stating the requested PDF has been exported, and to please check your folder for the new PDF files.**
+  * Press the "Export PDF" button.  
+  **NOTE: This will produce a message stating that the requested *.PDF* has been exported, also please check your folder to ensure that the new *.PDF* files have been created.**
 
 * Pressing the button after you have exported a file will bring a reminder asking you to select a chart to make a PDF image of.
 
