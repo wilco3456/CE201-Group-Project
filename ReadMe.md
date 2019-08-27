@@ -9,7 +9,7 @@ Other systems have not been tested, and it is advised to have caution with untes
 
 ## To Start:
 * Execute ce201-07.jar to begin the program. It will spend some time creating the GUI, before bringing up the Launcher Menu.
-** NOTE: To access from the command line, type: java -jar ce201-07.jar, which should run the program. **
+**NOTE: To access from the command line, type: java -jar ce201-07.jar, which should run the program.**
 
 ## How to use the Program:
 * To start of, you will need to download the CSV data from the [U.K Grid Watch Website](https://www.gridwatch.templar.co.uk/download.php). 
@@ -27,7 +27,7 @@ the "Load Data" button.
 * With your month size chosen, you should now press the "Load Data" button, causing the system to access the (csv) file you selected to convert it's data into a java list, then create two specialised lists to store the details to create Line and Pie charts.
 
 * If you didn't select a file, then pushing "Load Data" will bring up a message reminding you to select a file.
-** NOTE: If a csv file that contains a different format is used, the the program will malfunction and will need restarting to operate again. **
+**NOTE: If a csv file that contains a different format is used, the the program will malfunction and will need restarting to operate again.**
 
 * When you have finished, a pop-up will appear telling you that the loading of data has been completed.
 
@@ -44,7 +44,11 @@ appear displaying the size and the percentage that energy type takes up.
 
 * To create a PDF image of any of the charts, you must first select one of the charts to display their contents. If you don't, the "Export PDF" button will be usable until you do. 
 
-* To create a PDF of one of the charts, press either the "Show Line Charts" or "Show Pie Charts" buttons (Then close the chart if it impedes your view of the program), then press the "Export PDF" button. It will produce a message stating the requested PDF has been exported, and to please check your folder for the new PDF files.
+* To create a PDF of one of the charts:
+  * Press either the "Show Line Charts" or "Show Pie Charts" buttons.
+  **NOTE: close the chart if it impedes your view of the program.**
+  * Press the "Export PDF" button. 
+  **NOTE: This will produce a message stating the requested PDF has been exported, and to please check your folder for the new PDF files.**
 
 * Pressing the button after you have exported a file will bring a reminder asking you to select a chart to make a PDF image of.
 
