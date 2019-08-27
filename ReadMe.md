@@ -7,8 +7,7 @@
 * This work was compiled in Intellij. To compile it for use on the same service, copy and paste all java files into an Intelij src folder, then add to the Java Library all .jar files except ce201-07.jar, that is the executable file.
 
 ## To Start:
-* Execute ce201-07.jar to begin the program. It will spend some time creating the GUI, before bringing up the Launcher Menu.
-
+* Execute ce201-07.jar to begin the program. It will spend some time creating the GUI, before bringing up the Launcher Menu.  
 **NOTE: To access from the command line, type: java -jar ce201-07.jar, which should run the program.**
 
 ## How to use the Program:
