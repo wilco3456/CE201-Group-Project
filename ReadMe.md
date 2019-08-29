@@ -47,7 +47,6 @@ appear displaying the size and the percentage that energy type takes up.
 * To create a PDF of one of the charts:
   * Press either the "Show Line Charts" or "Show Pie Charts" buttons.  
   **NOTE: close the chart if it impedes your view of the program.**
-  
   * Press the "Export PDF" button.  
   **NOTE: This will produce a message stating that the requested *.PDF* has been exported, also please check your folder to ensure that the new *.PDF* files have been created.**
 
