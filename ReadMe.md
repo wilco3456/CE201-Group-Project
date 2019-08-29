@@ -1,16 +1,16 @@
 # CE201 Group Seven Assignment ReadMe Guide
 
-## Platform Recommendation:
+## Platform Recommendation
 * This program has been run on Windows 10.0.15063 build 15063 and Mac OS X, developed using Java version 12.0.2, Intellij version 2018.3.5 Other systems have not been tested, and it is advised to have caution with untested OS.
 
-## Note:
+## Note
 * This work was compiled in Intellij. To compile it for use on the same service, copy and paste all java files into an Intelij src folder, then add to the Java Library all .jar files except ce201-07.jar, that is the executable file.
 
-## To Start:
+## To Start
 * Execute ce201-07.jar to begin the program. It will spend some time creating the GUI, before bringing up the Launcher Menu.  
 **NOTE: To access from the command line, type: java -jar ce201-07.jar, which should run the program.**
 
-## How to use the Program:
+## How to use the Program
 * To start of, you will need to download the CSV data from the [U.K Grid Watch Website](https://www.gridwatch.templar.co.uk/download.php). 
 
 * Then click the "Browse" button, after which a window will pop-up. Browse it until you have found the file you just downloaded, then select that file. Afterwards, that file's classpath will appear inside the textbox left of the browse button.
